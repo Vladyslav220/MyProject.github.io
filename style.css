@@ -2,11 +2,23 @@
 background-color:red;
 }
 
-.item1{
+.item2{
 background-color:aqua;
 }
 
-.item1{
+.item3{
 background-color:yellow;
+}
+
+.done{
+background-color:black;
+}
+
+.well{
+background-color:green;
+}
+
+.need{
+background-color:orange;
 }
 
